@@ -14,7 +14,7 @@ Repository for examples of the data analysis workflow at CSX.
 
 ## Reciprocal Space Conversion
 
-* [Reciprocal Space Conversion] (https://github.com/NSLS-II-CSX/csx-examples/blob/master/examples/recip/Recip_Convversion_Gridding.ipynb)
+* [Reciprocal Space Conversion] (https://github.com/NSLS-II-CSX/csx-examples/blob/master/examples/recip/Recip_Conversion_Gridding.ipynb)
 
 License
 -------
